@@ -1,0 +1,48 @@
+{
+    "profile": {
+      "login": "demo-user",
+      "name": "Demo User",
+      "followers": 10,
+      "following": 2,
+      "public_repos": 3,
+      "created_at": "2020-01-15T10:00:00Z"
+    },
+    "repos": [
+      {
+        "name": "alpha",
+        "full_name": "demo-user/alpha",
+        "created_at": "2020-02-01T12:00:00Z",
+        "updated_at": "2020-05-01T12:00:00Z",
+        "pushed_at": "2024-10-01T09:00:00Z",
+        "language": "Python",
+        "stargazers_count": 5,
+        "forks_count": 1,
+        "watchers_count": 3,
+        "size": 120
+      },
+      {
+        "name": "beta",
+        "full_name": "demo-user/beta",
+        "created_at": "2021-03-10T08:30:00Z",
+        "updated_at": "2023-01-02T10:00:00Z",
+        "pushed_at": "2023-12-20T07:00:00Z",
+        "language": "JavaScript",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "watchers_count": 1,
+        "size": 80
+      },
+      {
+        "name": "gamma",
+        "full_name": "demo-user/gamma",
+        "created_at": "2022-07-20T14:00:00Z",
+        "updated_at": "2024-02-11T10:00:00Z",
+        "pushed_at": null,
+        "language": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "watchers_count": 0,
+        "size": 50
+      }
+    ]
+  }
